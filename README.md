@@ -36,7 +36,7 @@
 
 
 ### Продакшен на базе образовательного проекта
-[![](![image](https://user-images.githubusercontent.com/3905611/222982916-ce941f92-da3e-48e2-8b5f-34420b863e7d.png)
+[![](https://user-images.githubusercontent.com/3905611/222982916-ce941f92-da3e-48e2-8b5f-34420b863e7d.png
 )](https://www.youtube.com/watch?v=FRm7mhCKXOI&list=PLQPQDQeOswiXjjuXPXT0yVrYWa48irM0q&index=15&t=18s)
 
 
