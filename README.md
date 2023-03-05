@@ -41,7 +41,7 @@
 
 
 ### The State of CSS [ENG]
-[![](https://i.ytimg.com/an_webp/RWe00MFAjUc/mqdefault_6s.webp?du=3000&sqp=COPQk6AG&rs=AOn4CLBe-e9ICt_LX3XmRIuWevpuSbnBcA)](https://www.youtube.com/watch?v=RWe00MFAjUc)
+[![](https://i.ytimg.com/vi/RWe00MFAjUc/mqdefault.jpg)](https://www.youtube.com/watch?v=RWe00MFAjUc)
 
 ## Со мной можно дружить тут:
 - Телеграм: https://t.me/sergeytovarov
